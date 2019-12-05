@@ -7,23 +7,28 @@
 Hooks live inside files located within the `/WHMCS_ROOT/includes/hooks/` directory. To integrate Themely cPanel plugin with WHMCS follow the instructions below.
 
 **Step 1**
+
 Download the `themely.php` file and upload/place it to your hooks directory.
 
 **Step 2**
+
 Log into your WHMCS Admin Dashboard and navigate to `Setup > Products & Services > Products & Services`.
 
 **Step 3**
+
 Click the edit icon for the product you wish to configure. Then, click on `Custom Fields`.
 
 **Step 4**
- Create 2 custom fields for the WordPress Admin Username and Password. Field names **must be exactly** as you see below:
+ 
+Create 2 custom fields for the WordPress Admin Username and Password. Field names **must be exactly** as you see below:
 
 `WordPress Admin Username`
+
 `WordPress Admin Password`
 
 Select `Required Field` & `Show on Order Form` for both.
 
-![Themely WHMCS Custom Fields](https://raw.githubusercontent.com/ismaelyws/themely/master/assets/themely-cpanel-screenshot.png)
+![Themely WHMCS Custom Fields](assets/whmcs-custom-fields.PNG)
 
 
 ## Get Help/Support
