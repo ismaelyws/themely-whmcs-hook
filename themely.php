@@ -83,7 +83,7 @@ function hook_themely_wp_install($vars) {
     $wp_db_user = 'wp';
     $wp_table_prefix = chr(rand(97,122)) . chr(rand(97,122)) . chr(rand(97,122));
     $wp_submit_btn_value = 'Install WordPress';
-    // Change the values of the $wp_theme_slug & $wp_theme_url variables to install a different theme
+    // Change the values of the two following variables to install a different theme
     // Leave blank '' to install the default TwentyTwenty theme
     // Enter 'latest' to install the latest theme in the directory
     // Enter 'random' to install a random theme from the directory
