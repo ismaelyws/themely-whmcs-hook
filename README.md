@@ -20,7 +20,7 @@ Click the edit icon for the product you wish to configure. Then, click on `Custo
 
 **Step 4**
  
-Create 2 custom fields for the WordPress Admin Username and Password. Field names **must be exactly** as you see below:
+Create 2 custom fields for the WordPress Admin Username and Password. Field names **must be exactly** as you see highlighted below (upper and lowercase characters do matter). Display order is of course at your discretion.
 
 `WordPress Admin Username`
 
