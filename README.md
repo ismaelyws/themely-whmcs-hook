@@ -26,7 +26,7 @@ Create 2 custom fields for the WordPress Admin Username and Password. Field name
 
 `WordPress Admin Password`
 
-Select *Required Field* & *Show on Order Form* for both.
+Select *Required Field* & *Show on Order Form* for both custom fields.
 
 ![Themely WHMCS Custom Fields](assets/whmcs-custom-fields-20191205.PNG)
 
