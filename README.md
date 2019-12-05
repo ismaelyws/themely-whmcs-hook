@@ -33,7 +33,7 @@ Select *Required Field* & *Show on Order Form* for both.
 
 ## Configuration Instructions
 
-You can select which WordPress theme will be installed with WordPress by editing line 90 and 91 of the `themely.php` file.
+You can select which theme will be installed with WordPress by editing line 90 and 91 of the `themely.php` file.
 
 Configuration options are found on line 86-89.
 
