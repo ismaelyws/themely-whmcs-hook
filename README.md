@@ -26,9 +26,16 @@ Create 2 custom fields for the WordPress Admin Username and Password. Field name
 
 `WordPress Admin Password`
 
-Select `Required Field` & `Show on Order Form` for both.
+Select *Required Field* & *Show on Order Form* for both.
 
 ![Themely WHMCS Custom Fields](assets/whmcs-custom-fields.PNG)
+
+
+## Configuration Instructions
+
+You can select which WordPress theme will be installed with WordPress by editing line 90 and 91 of the `themely.php` file.
+
+Configuration options are found on line 86-89.
 
 
 ## Get Help/Support
