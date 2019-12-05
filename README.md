@@ -37,6 +37,8 @@ You can select which WordPress theme will be installed with WordPress by editing
 
 Configuration options are found on line 86-89.
 
+![Themely WHMCS Hook Config](assets/whmcs-hook-config.PNG)
+
 
 ## Get Help/Support
 
