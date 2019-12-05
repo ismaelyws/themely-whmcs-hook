@@ -28,7 +28,7 @@ Create 2 custom fields for the WordPress Admin Username and Password. Field name
 
 Select *Required Field* & *Show on Order Form* for both.
 
-![Themely WHMCS Custom Fields](assets/whmcs-custom-fields.png)
+![Themely WHMCS Custom Fields](assets/whmcs-custom-fields-20191205.png)
 
 
 ## Configuration Instructions
@@ -37,7 +37,7 @@ You can select which WordPress theme will be installed with WordPress by editing
 
 Configuration options are found on line 86-89.
 
-![Themely WHMCS Hook Config](assets/whmcs-hook-config.png)
+![Themely WHMCS Hook Config](assets/whmcs-hook-config-20191205.png)
 
 
 ## Get Help/Support
