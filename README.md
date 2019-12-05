@@ -42,9 +42,7 @@ Configuration options are found on line 86-89.
 
 ## Get Help/Support
 
-Hi! My name is Hans Desjarlais and I'm the founder & creator of Themely. Whether you're a hosting company or a theme developer, I'm your primary point of contact. If it's to get assistance with my plugin/service or to suggest new features; I'm here to listen.
-
-**Here's how you can reach me:**
+To get assistance with the Themely WHMCS hook or to suggest new features; here's how you can reach me:
 
 Submit support ticket: https://github.com/ismaelyws/themely-whmcs-hook/issues (click on the green **New Issue** button)
 
