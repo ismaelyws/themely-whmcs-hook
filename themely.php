@@ -72,8 +72,8 @@ function hook_themely_wp_install($vars) {
 	$hostname = $vars['params']['serverhostname'];
     $username = $vars['params']['username'];
     $password = $vars['params']['password'];
-    $wp_site_name = 'My Blog';
-    $wp_site_tagline = 'New WordPress Site';
+    $wp_site_name = 'My WordPress Website';
+    $wp_site_tagline = 'Just another WordPress site';
     $wp_admin_username = $vars['params']['customfields']['WordPress Admin Username'];
     $wp_admin_password = $vars['params']['customfields']['WordPress Admin Password'];
     $wp_admin_email = $vars['params']['clientsdetails']['email'];
