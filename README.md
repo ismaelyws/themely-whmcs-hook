@@ -4,11 +4,11 @@
 
 ## Installation Instructions
 
-Hooks live inside files located within the `/WHMCS_ROOT/includes/hooks/` directory. To integrate Themely cPanel plugin with WHMCS follow the instructions below.
+Hooks live inside files located within the `/WHMCS_ROOT/includes/hooks/` directory. To integrate Themely with WHMCS follow the instructions below.
 
 **Step 1**
 
-Download the `themely.php` file and upload/place it to your hooks directory.
+Download the `themely.php` file and upload it to your hooks directory.
 
 **Step 2**
 
