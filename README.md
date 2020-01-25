@@ -1,6 +1,6 @@
 # Themely WHMCS Hook
 
-#### Integrate Themely cPanel plugin with WHMCS and automatically install WordPress on new account creation.
+#### Integrate Themely cPanel plugin with WHMCS and automatically install WordPress on new accounts.
 
 ## Installation Instructions
 
