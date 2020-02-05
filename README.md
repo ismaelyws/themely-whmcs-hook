@@ -42,14 +42,18 @@ Configuration options are found on line 86-89.
 
 ## Get Help/Support
 
-To get assistance with the Themely WHMCS hook or to suggest new features; here's how you can reach me:
+To get assistance with the Themely WHMCS hook or to suggest new features; here's how you can reach us:
 
-Submit support ticket: https://github.com/ismaelyws/themely-whmcs-hook/issues (click on the green **New Issue** button)
+[Create new issue on Github](https://github.com/ismaelyws/themely-whmcs-hook/issues) (click the green **New Issue** button)
 
-Email: ismaelyws [at] gmail [dot] com
+[Chat with us on Discord](https://discord.gg/f3m2Pmp)
 
-Twitter Direct Message: https://twitter.com/messages/compose?recipient_id=ismaelyws
+Send an email to `hans@themely.com`
 
-Phone: +1 (514) 883-0132 (please only use this in case of emergency)
+Call or text on Whatsapp `+1 (514) 883-0132`
 
 Time Zone: Eastern Standard Time (GMT -4)
+
+Spoken & written languages: English, Français, Español (un poquito)
+
+Office Location: Montreal, Canada
