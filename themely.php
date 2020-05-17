@@ -44,6 +44,7 @@ function hook_themely_wp_install($vars) {
     $wp_site_tagline = 'Just another WordPress site';
     $wp_admin_username = $vars['params']['customfields']['WordPress Admin Username'];
     $wp_admin_password = $vars['params']['customfields']['WordPress Admin Password'];
+    $wp_theme_slug = $vars['params']['customfields']['WordPress Theme']; // Here the customer can select the theme
     $wp_admin_email = $vars['params']['clientsdetails']['email'];
     $wp_site_protocol = 'http://www.';
     $wp_site_domain = $vars['params']['domain'].'|'.'/home/'.$vars['params']['username'].'/public_html';
@@ -55,7 +56,7 @@ function hook_themely_wp_install($vars) {
     // Leave blank '' to install the default TwentyTwenty theme
     // Enter 'latest' to install the latest theme in the directory
     // Enter 'random' to install a random theme from the directory
-    $wp_theme_slug = 'latest'; // CHANGE VALUES HERE
+//    $wp_theme_slug = 'latest'; // CHANGE VALUES HERE
     $wp_theme_url = 'latest'; // CHANGE VALUES HERE
 	$data = array(
 		'wp_site_name' => $wp_site_name,
