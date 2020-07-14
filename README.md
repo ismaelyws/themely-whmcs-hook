@@ -44,7 +44,7 @@ Configuration options are found on line 86-89.
 
 ## Quick Shortcut
 
-You can also add a shortcut to Themely within the Quick Shortcuts panel in WHMCS. [Follow these instructions](https://github.com/ismaelyws/Themely-WHMCS-Quick-Shortcut).
+You can also add a shortcut to Themely within the Quick Shortcuts panel in WHMCS, [follow these instructions](https://github.com/ismaelyws/Themely-WHMCS-Quick-Shortcut).
 
 
 ## Get Help/Support
