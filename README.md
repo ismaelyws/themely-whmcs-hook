@@ -4,11 +4,14 @@
 
 ## Installation Instructions
 
-Hooks live inside files located within the `/WHMCS_ROOT/includes/hooks/` directory. To integrate Themely with WHMCS follow the instructions below.
+Hooks live inside files located within the `/[WHMCS_ROOT]/includes/hooks/` directory. To integrate Themely with WHMCS follow the instructions below.
 
 **Step 1**
 
-Download the `themely.php` file and upload it to your hooks directory.
+- [Download this zip file](https://github.com/ismaelyws/themely-whmcs-hook/archive/master.zip)
+- Unzip the file
+- Locate the `themely.php` file located inside the folder
+- Upload it to the WHMCS hooks directory on your server `/[WHMCS_ROOT]/includes/hooks/`.
 
 **Step 2**
 
